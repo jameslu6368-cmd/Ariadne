@@ -1,2 +1,2 @@
-# ReactRespond
+# Ariadne
 Hello
